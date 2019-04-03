@@ -46,3 +46,4 @@ extension or follow this quick reference::
 Notice that appveyor badge image needs to be updated manually. Go where ``_AppVeyor:`` pints
 in the resulting `README.rst` after bootstraping and substitute `4qrnsuohh5g53i5u` with
 the relevant information from `settings` -> `badges` in appveyor's website of your project.
+
